@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabhanjana123/LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Prabhanjana123/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Prabhanjana123/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prabhanjana123/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Prabhanjana123/LEETCODE/tree/master/0383-ransom-note) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prabhanjana123/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Prabhanjana123/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Prabhanjana123/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prabhanjana123/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prabhanjana123/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Prabhanjana123/LEETCODE/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
