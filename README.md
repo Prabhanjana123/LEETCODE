@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prabhanjana123/LEETCODE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Prabhanjana123/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Prabhanjana123/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prabhanjana123/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Prabhanjana123/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prabhanjana123/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Prabhanjana123/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Prabhanjana123/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Prabhanjana123/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
