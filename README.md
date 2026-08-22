@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Prabhanjana123/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Prabhanjana123/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prabhanjana123/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Prabhanjana123/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prabhanjana123/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Prabhanjana123/LEETCODE/tree/master/0135-candy) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Prabhanjana123/LEETCODE/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Prabhanjana123/LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
